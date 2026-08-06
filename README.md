@@ -196,18 +196,3 @@ Informe a quantidade de notas entregues considerando:
 
 ---
 
-# 📂 Estrutura do projeto
-
-Exemplo:
-
-```
-📦 Lista-Exercicios-CSharp
- ┣ 📂 Exercicios
- ┃ ┣ 📜 Exercicio01.cs
- ┃ ┣ 📜 Exercicio02.cs
- ┃ ┣ 📜 Exercicio03.cs
- ┃ ┗ ...
- ┣ 📜 README.md
- ┗ 📜 Lista-Exercicios.sln
-```
-
